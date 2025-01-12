@@ -1,0 +1,5 @@
+06.22.04:
+Released stable version 0.1 to SourceForge.net.  This version is 
+complete with respect to picking and pick-file generation.  Wavelet 
+filtering interface and error handling need work.  JPick 0.1 uses 
+JFreeChart 0.9.20
